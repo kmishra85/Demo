@@ -1,0 +1,6 @@
+com\postgres\demo\dao\MemberDao.class
+com\postgres\demo\service\MemberService.class
+com\postgres\demo\DemoApplication.class
+com\postgres\demo\model\Member.class
+com\postgres\demo\controller\BaseController.class
+com\postgres\demo\dto\MemberDataRequest.class
